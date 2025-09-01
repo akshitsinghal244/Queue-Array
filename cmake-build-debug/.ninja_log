@@ -1,0 +1,9 @@
+# ninja log v6
+17	611	7784087118790630	CMakeFiles/dsa_class_week5.dir/main.c.obj	a040e889815df60b
+32	557	7784089596643466	build.ninja	384c7fbb10de476e
+66	269	7784088296244679	CMakeFiles/dsa_class_week5.dir/func.c.obj	64f4488acf31e967
+272	503	7784088298298025	dsa_class_week5.exe	cdda5ea42425085
+14	312	7784090462950918	CMakeFiles/dsa_class_week5.dir/main.c.obj	a040e889815df60b
+313	612	7784090465942470	dsa_class_week5.exe	cdda5ea42425085
+38	300	7784091117967624	CMakeFiles/dsa_class_week5.dir/main.c.obj	a040e889815df60b
+302	543	7784091120606828	dsa_class_week5.exe	cdda5ea42425085
